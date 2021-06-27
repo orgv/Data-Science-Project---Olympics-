@@ -2,4 +2,4 @@
 
 Given the data, can we predict whether an individual has the potential to win an Olympic medal?
 
-Note: the csv files processed during this projecty are too big to upload!
+Please keep in mind that the CSV files generated during this project are too large to upload, so I was unable to do so!
